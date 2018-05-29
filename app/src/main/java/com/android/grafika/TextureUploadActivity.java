@@ -367,6 +367,7 @@ public class TextureUploadActivity extends Activity {
 
             Log.d(TAG, "done");
 
+
             if (true) {
                 // save the final frame into a file
                 long startWhen = System.nanoTime();
